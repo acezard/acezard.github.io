@@ -1,0 +1,682 @@
+[
+  {
+    "fileBase": "00048-1363273527_modified",
+    "id": "00048-1363273527-modified",
+    "slug": "00048-1363273527-modified",
+    "title": "00048 1363273527 modified",
+    "thumb": "/art/thumbs/00048-1363273527_modified_thumb.jpg",
+    "full": "/art/full/00048-1363273527_modified_full.jpg",
+    "originalWidth": 1280,
+    "originalHeight": 1920,
+    "alt": "A colossal, cosmic entity devours the universe, its body formed from swirling galaxies and nebulae. Its massive hands tear entire star syst…",
+    "shortDescription": "A colossal, cosmic entity devours the universe, its body formed from swirling galaxies and nebulae. Its massive hands tear entire star systems from the fabric of space, pulling them into a gaping maw where they vanish i…",
+    "longDescription": "A colossal, cosmic entity devours the universe, its body formed from swirling galaxies and nebulae. Its massive hands tear entire star systems from the fabric of space, pulling them into a gaping maw where they vanish into a vortex of light and darkness. Around its form, planets and asteroids spiral into oblivion, caught in its overwhelming gravitational pull. Black holes flicker near its edges, and shattered remnants of ancient civilizations drift into the void. The last flicker of starlight fades as time and space collapse, consumed by the god's insatiable hunger. <lora:atomeaser_v1:1.25><lora:metal_hurlant_v1:0.5>",
+    "tech": {
+      "steps": 20,
+      "sampler": "Euler",
+      "cfgScale": 1,
+      "distilledCfgScale": 3.5,
+      "seed": 1363273527,
+      "sizeGenerated": "1280x1920",
+      "modelHash": "52cfce60d7",
+      "model": "flux1-dev-Q8_0",
+      "version": "f2.0.1v1.10.1-previous-537-g95b54a27",
+      "loras": [
+        {
+          "name": "atomeaser_v1",
+          "strength": 1.25
+        },
+        {
+          "name": "metal_hurlant_v1",
+          "strength": 0.5
+        }
+      ]
+    }
+  },
+  {
+    "fileBase": "00051-1363273530_modified",
+    "id": "00051-1363273530-modified",
+    "slug": "00051-1363273530-modified",
+    "title": "00051 1363273530 modified",
+    "thumb": "/art/thumbs/00051-1363273530_modified_thumb.jpg",
+    "full": "/art/full/00051-1363273530_modified_full.jpg",
+    "originalWidth": 1280,
+    "originalHeight": 1920,
+    "alt": "The sky fractures into a thousand mirrored shards, each reflecting twisted versions of dying worlds. From the cracks, titanic beings of inc…",
+    "shortDescription": "The sky fractures into a thousand mirrored shards, each reflecting twisted versions of dying worlds. From the cracks, titanic beings of incomprehensible form emerge, their bodies a chaotic fusion of organic tendrils and…",
+    "longDescription": "The sky fractures into a thousand mirrored shards, each reflecting twisted versions of dying worlds. From the cracks, titanic beings of incomprehensible form emerge, their bodies a chaotic fusion of organic tendrils and pulsating machinery. Entire planets are torn from their orbits, dragged into the yawning void between realities. Space itself writhes, distorting as time melts, with fragments of past and future colliding in a cacophony of broken moments. Screams echo from nowhere, as civilizations are erased in the blink of an eye. <lora:atomeaser_v1:1>",
+    "tech": {
+      "steps": 20,
+      "sampler": "Euler",
+      "cfgScale": 1,
+      "distilledCfgScale": 3.5,
+      "seed": 1363273530,
+      "sizeGenerated": "1280x1920",
+      "modelHash": "52cfce60d7",
+      "model": "flux1-dev-Q8_0",
+      "version": "f2.0.1v1.10.1-previous-537-g95b54a27",
+      "loras": [
+        {
+          "name": "atomeaser_v1",
+          "strength": 1
+        }
+      ]
+    }
+  },
+  {
+    "fileBase": "00060-1363273539_modified",
+    "id": "00060-1363273539-modified",
+    "slug": "00060-1363273539-modified",
+    "title": "00060 1363273539 modified",
+    "thumb": "/art/thumbs/00060-1363273539_modified_thumb.jpg",
+    "full": "/art/full/00060-1363273539_modified_full.jpg",
+    "originalWidth": 1280,
+    "originalHeight": 1920,
+    "alt": "The universe crumbles into cosmic dust, as vast whirlpools of dark matter spiral across the void, sucking in planets and stars. Massive, tr…",
+    "shortDescription": "The universe crumbles into cosmic dust, as vast whirlpools of dark matter spiral across the void, sucking in planets and stars. Massive, translucent figures drift through the remnants of creation, their ghostly shapes b…",
+    "longDescription": "The universe crumbles into cosmic dust, as vast whirlpools of dark matter spiral across the void, sucking in planets and stars. Massive, translucent figures drift through the remnants of creation, their ghostly shapes barely visible, yet their presence warps the very essence of reality. Around them, entire star systems collapse into singularities, creating an endless field of ravenous black holes. Space ripples and folds, twisting into impossible shapes, while the boundary between life and death is erased. In the distance, the last surviving stars flicker and fade, swallowed by a sea of cosmic nothingness. <lora:atomeaser_v1:1.25><lora:fantastic_planet_v1:0.2>",
+    "tech": {
+      "steps": 20,
+      "sampler": "Euler",
+      "cfgScale": 1,
+      "distilledCfgScale": 3.5,
+      "seed": 1363273539,
+      "sizeGenerated": "1280x1920",
+      "modelHash": "52cfce60d7",
+      "model": "flux1-dev-Q8_0",
+      "version": "f2.0.1v1.10.1-previous-537-g95b54a27",
+      "loras": [
+        {
+          "name": "atomeaser_v1",
+          "strength": 1.25
+        },
+        {
+          "name": "fantastic_planet_v1",
+          "strength": 0.2
+        }
+      ]
+    }
+  },
+  {
+    "fileBase": "00063-1363273542_modified",
+    "id": "00063-1363273542-modified",
+    "slug": "00063-1363273542-modified",
+    "title": "00063 1363273542 modified",
+    "thumb": "/art/thumbs/00063-1363273542_modified_thumb.jpg",
+    "full": "/art/full/00063-1363273542_modified_full.jpg",
+    "originalWidth": 1280,
+    "originalHeight": 1920,
+    "alt": "A colossal, cosmic entity devours the universe, its body formed from swirling galaxies and nebulae. Its massive hands tear entire star syst…",
+    "shortDescription": "A colossal, cosmic entity devours the universe, its body formed from swirling galaxies and nebulae. Its massive hands tear entire star systems from the fabric of space, pulling them into a gaping maw where they vanish i…",
+    "longDescription": "A colossal, cosmic entity devours the universe, its body formed from swirling galaxies and nebulae. Its massive hands tear entire star systems from the fabric of space, pulling them into a gaping maw where they vanish into a vortex of light and darkness. Around its form, planets and asteroids spiral into oblivion, caught in its overwhelming gravitational pull. Black holes flicker near its edges, and shattered remnants of ancient civilizations drift into the void. The last flicker of starlight fades as time and space collapse, consumed by the god's insatiable hunger. <lora:atomeaser_v1:1><lora:fantastic_planet_v1:0.2>",
+    "tech": {
+      "steps": 20,
+      "sampler": "Euler",
+      "cfgScale": 1,
+      "distilledCfgScale": 3.5,
+      "seed": 1363273542,
+      "sizeGenerated": "1280x1920",
+      "modelHash": "52cfce60d7",
+      "model": "flux1-dev-Q8_0",
+      "version": "f2.0.1v1.10.1-previous-537-g95b54a27",
+      "loras": [
+        {
+          "name": "atomeaser_v1",
+          "strength": 1
+        },
+        {
+          "name": "fantastic_planet_v1",
+          "strength": 0.2
+        }
+      ]
+    }
+  },
+  {
+    "fileBase": "00067-1363273546_modified",
+    "id": "00067-1363273546-modified",
+    "slug": "00067-1363273546-modified",
+    "title": "00067 1363273546 modified",
+    "thumb": "/art/thumbs/00067-1363273546_modified_thumb.jpg",
+    "full": "/art/full/00067-1363273546_modified_full.jpg",
+    "originalWidth": 1280,
+    "originalHeight": 1920,
+    "alt": "Oceans of molten metal flow through space, ripping apart stars and galaxies as they surge forward like cosmic rivers of destruction. Toweri…",
+    "shortDescription": "Oceans of molten metal flow through space, ripping apart stars and galaxies as they surge forward like cosmic rivers of destruction. Towering, skeletal structures rise from the galactic floor, their spires made from the…",
+    "longDescription": "Oceans of molten metal flow through space, ripping apart stars and galaxies as they surge forward like cosmic rivers of destruction. Towering, skeletal structures rise from the galactic floor, their spires made from the bones of fallen worlds. Reality warps as invisible forces tear the sky apart, leaving behind gaping holes where the universe once stood. Out of the void, multi-limbed, insectoid gods crawl, their bodies writhing and reshaping into impossible forms as they consume the last remnants of creation. <lora:atomeaser_v1:1><lora:metal_hurlant_v1:0.5>,<lora:fantastic_planet_v1:0.2>",
+    "tech": {
+      "steps": 20,
+      "sampler": "Euler",
+      "cfgScale": 1,
+      "distilledCfgScale": 3.5,
+      "seed": 1363273546,
+      "sizeGenerated": "1280x1920",
+      "modelHash": "52cfce60d7",
+      "model": "flux1-dev-Q8_0",
+      "version": "f2.0.1v1.10.1-previous-537-g95b54a27",
+      "loras": [
+        {
+          "name": "atomeaser_v1",
+          "strength": 1
+        },
+        {
+          "name": "metal_hurlant_v1",
+          "strength": 0.5
+        },
+        {
+          "name": "fantastic_planet_v1",
+          "strength": 0.2
+        }
+      ]
+    }
+  },
+  {
+    "fileBase": "00071-1363273550_modified",
+    "id": "00071-1363273550-modified",
+    "slug": "00071-1363273550-modified",
+    "title": "00071 1363273550 modified",
+    "thumb": "/art/thumbs/00071-1363273550_modified_thumb.jpg",
+    "full": "/art/full/00071-1363273550_modified_full.jpg",
+    "originalWidth": 1280,
+    "originalHeight": 1920,
+    "alt": "Oceans of molten metal flow through space, ripping apart stars and galaxies as they surge forward like cosmic rivers of destruction. Toweri…",
+    "shortDescription": "Oceans of molten metal flow through space, ripping apart stars and galaxies as they surge forward like cosmic rivers of destruction. Towering, skeletal structures rise from the galactic floor, their spires made from the…",
+    "longDescription": "Oceans of molten metal flow through space, ripping apart stars and galaxies as they surge forward like cosmic rivers of destruction. Towering, skeletal structures rise from the galactic floor, their spires made from the bones of fallen worlds. Reality warps as invisible forces tear the sky apart, leaving behind gaping holes where the universe once stood. Out of the void, multi-limbed, insectoid gods crawl, their bodies writhing and reshaping into impossible forms as they consume the last remnants of creation. <lora:atomeaser_v1:1><lora:fantastic_planet_v1:0.2>",
+    "tech": {
+      "steps": 20,
+      "sampler": "Euler",
+      "cfgScale": 1,
+      "distilledCfgScale": 3.5,
+      "seed": 1363273550,
+      "sizeGenerated": "1280x1920",
+      "modelHash": "52cfce60d7",
+      "model": "flux1-dev-Q8_0",
+      "version": "f2.0.1v1.10.1-previous-537-g95b54a27",
+      "loras": [
+        {
+          "name": "atomeaser_v1",
+          "strength": 1
+        },
+        {
+          "name": "fantastic_planet_v1",
+          "strength": 0.2
+        }
+      ]
+    }
+  },
+  {
+    "fileBase": "00156-2824270861_modified",
+    "id": "00156-2824270861-modified",
+    "slug": "00156-2824270861-modified",
+    "title": "00156 2824270861 modified",
+    "thumb": "/art/thumbs/00156-2824270861_modified_thumb.jpg",
+    "full": "/art/full/00156-2824270861_modified_full.jpg",
+    "originalWidth": 1920,
+    "originalHeight": 1280,
+    "alt": "A colossal, cosmic entity devours the universe, its body formed from swirling galaxies and nebulae. Its massive hands tear entire star syst…",
+    "shortDescription": "A colossal, cosmic entity devours the universe, its body formed from swirling galaxies and nebulae. Its massive hands tear entire star systems from the fabric of space, pulling them into a gaping maw where they vanish i…",
+    "longDescription": "A colossal, cosmic entity devours the universe, its body formed from swirling galaxies and nebulae. Its massive hands tear entire star systems from the fabric of space, pulling them into a gaping maw where they vanish into a vortex of light and darkness. Around its form, planets and asteroids spiral into oblivion, caught in its overwhelming gravitational pull. Black holes flicker near its edges, and shattered remnants of ancient civilizations drift into the void. The last flicker of starlight fades as time and space collapse, consumed by the god's insatiable hunger. <lora:atomeaser_v1:1> <lora:fantastic_planet_v1:0.2>",
+    "tech": {
+      "steps": 20,
+      "sampler": "Euler",
+      "cfgScale": 1,
+      "distilledCfgScale": 3.5,
+      "seed": 2824270861,
+      "sizeGenerated": "1920x1280",
+      "modelHash": "52cfce60d7",
+      "model": "flux1-dev-Q8_0",
+      "version": "f2.0.1v1.10.1-previous-537-g95b54a27",
+      "loras": [
+        {
+          "name": "atomeaser_v1",
+          "strength": 1
+        },
+        {
+          "name": "fantastic_planet_v1",
+          "strength": 0.2
+        }
+      ]
+    }
+  },
+  {
+    "fileBase": "00163-1508154610_modified",
+    "id": "00163-1508154610-modified",
+    "slug": "00163-1508154610-modified",
+    "title": "00163 1508154610 modified",
+    "thumb": "/art/thumbs/00163-1508154610_modified_thumb.jpg",
+    "full": "/art/full/00163-1508154610_modified_full.jpg",
+    "originalWidth": 1920,
+    "originalHeight": 1280,
+    "alt": "The universe crumbles into cosmic dust, as vast whirlpools of dark matter spiral across the void, sucking in planets and stars. Massive, tr…",
+    "shortDescription": "The universe crumbles into cosmic dust, as vast whirlpools of dark matter spiral across the void, sucking in planets and stars. Massive, translucent figures drift through the remnants of creation, their ghostly shapes b…",
+    "longDescription": "The universe crumbles into cosmic dust, as vast whirlpools of dark matter spiral across the void, sucking in planets and stars. Massive, translucent figures drift through the remnants of creation, their ghostly shapes barely visible, yet their presence warps the very essence of reality. Around them, entire star systems collapse into singularities, creating an endless field of ravenous black holes. Space ripples and folds, twisting into impossible shapes, while the boundary between life and death is erased. In the distance, the last surviving stars flicker and fade, swallowed by a sea of cosmic nothingness.<lora:atomeaser_v1:1> <lora:fantastic_planet_v1:0.25>",
+    "tech": {
+      "steps": 20,
+      "sampler": "Euler",
+      "cfgScale": 1,
+      "distilledCfgScale": 3,
+      "seed": 1508154610,
+      "sizeGenerated": "1920x1280",
+      "modelHash": "52cfce60d7",
+      "model": "flux1-dev-Q8_0",
+      "version": "f2.0.1v1.10.1-previous-537-g95b54a27",
+      "loras": [
+        {
+          "name": "atomeaser_v1",
+          "strength": 1
+        },
+        {
+          "name": "fantastic_planet_v1",
+          "strength": 0.25
+        }
+      ]
+    }
+  },
+  {
+    "fileBase": "00188-1359157917_modified",
+    "id": "00188-1359157917-modified",
+    "slug": "00188-1359157917-modified",
+    "title": "00188 1359157917 modified",
+    "thumb": "/art/thumbs/00188-1359157917_modified_thumb.jpg",
+    "full": "/art/full/00188-1359157917_modified_full.jpg",
+    "originalWidth": 1920,
+    "originalHeight": 1280,
+    "alt": "The sky fractures into a thousand mirrored shards, each reflecting twisted versions of dying worlds. From the cracks, titanic beings of inc…",
+    "shortDescription": "The sky fractures into a thousand mirrored shards, each reflecting twisted versions of dying worlds. From the cracks, titanic beings of incomprehensible form emerge, their bodies a chaotic fusion of organic tendrils and…",
+    "longDescription": "The sky fractures into a thousand mirrored shards, each reflecting twisted versions of dying worlds. From the cracks, titanic beings of incomprehensible form emerge, their bodies a chaotic fusion of organic tendrils and pulsating machinery. Entire planets are torn from their orbits, dragged into the yawning void between realities. Space itself writhes, distorting as time melts, with fragments of past and future colliding in a cacophony of broken moments. Screams echo from nowhere, as civilizations are erased in the blink of an eye.<lora:atomeaser_v1:1> <lora:fantastic_planet_v1:0.2>",
+    "tech": {
+      "steps": 20,
+      "sampler": "Euler",
+      "cfgScale": 1,
+      "distilledCfgScale": 3.5,
+      "seed": 1359157917,
+      "sizeGenerated": "1920x1280",
+      "modelHash": "52cfce60d7",
+      "model": "flux1-dev-Q8_0",
+      "version": "f2.0.1v1.10.1-previous-537-g95b54a27",
+      "loras": [
+        {
+          "name": "atomeaser_v1",
+          "strength": 1
+        },
+        {
+          "name": "fantastic_planet_v1",
+          "strength": 0.2
+        }
+      ]
+    }
+  },
+  {
+    "fileBase": "00189-1359157918_modified",
+    "id": "00189-1359157918-modified",
+    "slug": "00189-1359157918-modified",
+    "title": "00189 1359157918 modified",
+    "thumb": "/art/thumbs/00189-1359157918_modified_thumb.jpg",
+    "full": "/art/full/00189-1359157918_modified_full.jpg",
+    "originalWidth": 1920,
+    "originalHeight": 1280,
+    "alt": "The sky fractures into a thousand mirrored shards, each reflecting twisted versions of dying worlds. From the cracks, titanic beings of inc…",
+    "shortDescription": "The sky fractures into a thousand mirrored shards, each reflecting twisted versions of dying worlds. From the cracks, titanic beings of incomprehensible form emerge, their bodies a chaotic fusion of organic tendrils and…",
+    "longDescription": "The sky fractures into a thousand mirrored shards, each reflecting twisted versions of dying worlds. From the cracks, titanic beings of incomprehensible form emerge, their bodies a chaotic fusion of organic tendrils and pulsating machinery. Entire planets are torn from their orbits, dragged into the yawning void between realities. Space itself writhes, distorting as time melts, with fragments of past and future colliding in a cacophony of broken moments. Screams echo from nowhere, as civilizations are erased in the blink of an eye.<lora:atomeaser_v1:1> <lora:fantastic_planet_v1:0.2>",
+    "tech": {
+      "steps": 20,
+      "sampler": "Euler",
+      "cfgScale": 1,
+      "distilledCfgScale": 3.5,
+      "seed": 1359157918,
+      "sizeGenerated": "1920x1280",
+      "modelHash": "52cfce60d7",
+      "model": "flux1-dev-Q8_0",
+      "version": "f2.0.1v1.10.1-previous-537-g95b54a27",
+      "loras": [
+        {
+          "name": "atomeaser_v1",
+          "strength": 1
+        },
+        {
+          "name": "fantastic_planet_v1",
+          "strength": 0.2
+        }
+      ]
+    }
+  },
+  {
+    "fileBase": "00201-1015231109_modified",
+    "id": "00201-1015231109-modified",
+    "slug": "00201-1015231109-modified",
+    "title": "00201 1015231109 modified",
+    "thumb": "/art/thumbs/00201-1015231109_modified_thumb.jpg",
+    "full": "/art/full/00201-1015231109_modified_full.jpg",
+    "originalWidth": 1920,
+    "originalHeight": 1280,
+    "alt": "A gaping, hungry void opens at the center of the cosmos, pulling everything into its endless maw. Galaxies spiral in, twisting and elongati…",
+    "shortDescription": "A gaping, hungry void opens at the center of the cosmos, pulling everything into its endless maw. Galaxies spiral in, twisting and elongating into grotesque shapes as they are stretched beyond recognition. The void emit…",
+    "longDescription": "A gaping, hungry void opens at the center of the cosmos, pulling everything into its endless maw. Galaxies spiral in, twisting and elongating into grotesque shapes as they are stretched beyond recognition. The void emits no light, only an all-consuming silence that drowns out the screams of collapsing worlds. Ancient, godlike figures hover at the edges of the destruction, watching as the last remnants of creation are swallowed. Time and space fold into themselves, leaving nothing but a black, infinite expanse where the universe once existed.<lora:atomeaser_v1:1> <lora:fantastic_planet_v1:0.2>",
+    "tech": {
+      "steps": 20,
+      "sampler": "Euler",
+      "cfgScale": 1,
+      "distilledCfgScale": 3.5,
+      "seed": 1015231109,
+      "sizeGenerated": "1920x1280",
+      "modelHash": "52cfce60d7",
+      "model": "flux1-dev-Q8_0",
+      "version": "f2.0.1v1.10.1-previous-537-g95b54a27",
+      "loras": [
+        {
+          "name": "atomeaser_v1",
+          "strength": 1
+        },
+        {
+          "name": "fantastic_planet_v1",
+          "strength": 0.2
+        }
+      ]
+    }
+  },
+  {
+    "fileBase": "00207-2849511941_modified",
+    "id": "00207-2849511941-modified",
+    "slug": "00207-2849511941-modified",
+    "title": "00207 2849511941 modified",
+    "thumb": "/art/thumbs/00207-2849511941_modified_thumb.jpg",
+    "full": "/art/full/00207-2849511941_modified_full.jpg",
+    "originalWidth": 1920,
+    "originalHeight": 1280,
+    "alt": "A colossal, cosmic entity devours the universe, its body formed from swirling galaxies and nebulae. Its massive hands tear entire star syst…",
+    "shortDescription": "A colossal, cosmic entity devours the universe, its body formed from swirling galaxies and nebulae. Its massive hands tear entire star systems from the fabric of space, pulling them into a gaping maw where they vanish i…",
+    "longDescription": "A colossal, cosmic entity devours the universe, its body formed from swirling galaxies and nebulae. Its massive hands tear entire star systems from the fabric of space, pulling them into a gaping maw where they vanish into a vortex of light and darkness. Around its form, planets and asteroids spiral into oblivion, caught in its overwhelming gravitational pull. Black holes flicker near its edges, and shattered remnants of ancient civilizations drift into the void. The last flicker of starlight fades as time and space collapse, consumed by the god's insatiable hunger.\n<lora:atomeaser_v1:1><lora:metal_hurlant_v1:0.2>,<lora:fantastic_planet_v1:0.2>",
+    "tech": {
+      "steps": 20,
+      "sampler": "Euler",
+      "cfgScale": 1,
+      "distilledCfgScale": 3.5,
+      "seed": 2849511941,
+      "sizeGenerated": "1920x1280",
+      "modelHash": "52cfce60d7",
+      "model": "flux1-dev-Q8_0",
+      "version": "f2.0.1v1.10.1-previous-537-g95b54a27",
+      "loras": [
+        {
+          "name": "atomeaser_v1",
+          "strength": 1
+        },
+        {
+          "name": "metal_hurlant_v1",
+          "strength": 0.2
+        },
+        {
+          "name": "fantastic_planet_v1",
+          "strength": 0.2
+        }
+      ]
+    }
+  },
+  {
+    "fileBase": "00227-3428121073_modified",
+    "id": "00227-3428121073-modified",
+    "slug": "00227-3428121073-modified",
+    "title": "00227 3428121073 modified",
+    "thumb": "/art/thumbs/00227-3428121073_modified_thumb.jpg",
+    "full": "/art/full/00227-3428121073_modified_full.jpg",
+    "originalWidth": 1920,
+    "originalHeight": 1280,
+    "alt": "Colossal, insect-like titans march through the void, their bodies made from the remnants of crushed galaxies, their limbs stretching out in…",
+    "shortDescription": "Colossal, insect-like titans march through the void, their bodies made from the remnants of crushed galaxies, their limbs stretching out into infinity. Their footsteps send ripples through space, fracturing time and sha…",
+    "longDescription": "Colossal, insect-like titans march through the void, their bodies made from the remnants of crushed galaxies, their limbs stretching out into infinity. Their footsteps send ripples through space, fracturing time and shattering the very concept of reality. In their wake, stars explode in a chain reaction, black holes collide, and nebulas burn with cold fire. From the cracks in the universe, slithering tendrils of darkness crawl out, consuming everything in their path. The cosmos trembles, its final breath a low, vibrating hum before the titans devour it whole.\n<lora:atomeaser_v1:1>",
+    "tech": {
+      "steps": 20,
+      "sampler": "Euler",
+      "cfgScale": 1,
+      "distilledCfgScale": 3.5,
+      "seed": 3428121073,
+      "sizeGenerated": "1920x1280",
+      "modelHash": "52cfce60d7",
+      "model": "flux1-dev-Q8_0",
+      "version": "f2.0.1v1.10.1-previous-537-g95b54a27",
+      "loras": [
+        {
+          "name": "atomeaser_v1",
+          "strength": 1
+        }
+      ]
+    }
+  },
+  {
+    "fileBase": "00252-3349990541_modified",
+    "id": "00252-3349990541-modified",
+    "slug": "00252-3349990541-modified",
+    "title": "00252 3349990541 modified",
+    "thumb": "/art/thumbs/00252-3349990541_modified_thumb.jpg",
+    "full": "/art/full/00252-3349990541_modified_full.jpg",
+    "originalWidth": 1920,
+    "originalHeight": 1280,
+    "alt": "A colossal, cosmic entity devours the universe, its body formed from swirling galaxies and nebulae. Its massive hands tear entire star syst…",
+    "shortDescription": "A colossal, cosmic entity devours the universe, its body formed from swirling galaxies and nebulae. Its massive hands tear entire star systems from the fabric of space, pulling them into a gaping maw where they vanish i…",
+    "longDescription": "A colossal, cosmic entity devours the universe, its body formed from swirling galaxies and nebulae. Its massive hands tear entire star systems from the fabric of space, pulling them into a gaping maw where they vanish into a vortex of light and darkness. Around its form, planets and asteroids spiral into oblivion, caught in its overwhelming gravitational pull. Black holes flicker near its edges, and shattered remnants of ancient civilizations drift into the void. The last flicker of starlight fades as time and space collapse, consumed by the god's insatiable hunger. <lora:atomeaser_v1:1><lora:metal_hurlant_v1:0.5>",
+    "tech": {
+      "steps": 20,
+      "sampler": "Euler",
+      "cfgScale": 1,
+      "distilledCfgScale": 3.5,
+      "seed": 3349990541,
+      "sizeGenerated": "1920x1280",
+      "modelHash": "52cfce60d7",
+      "model": "flux1-dev-Q8_0",
+      "version": "f2.0.1v1.10.1-previous-537-g95b54a27",
+      "loras": [
+        {
+          "name": "atomeaser_v1",
+          "strength": 1
+        },
+        {
+          "name": "metal_hurlant_v1",
+          "strength": 0.5
+        }
+      ]
+    }
+  },
+  {
+    "fileBase": "00255-2951411677_modified",
+    "id": "00255-2951411677-modified",
+    "slug": "00255-2951411677-modified",
+    "title": "00255 2951411677 modified",
+    "thumb": "/art/thumbs/00255-2951411677_modified_thumb.jpg",
+    "full": "/art/full/00255-2951411677_modified_full.jpg",
+    "originalWidth": 1920,
+    "originalHeight": 1280,
+    "alt": "The sky fractures into a thousand mirrored shards, each reflecting twisted versions of dying worlds. From the cracks, titanic beings of inc…",
+    "shortDescription": "The sky fractures into a thousand mirrored shards, each reflecting twisted versions of dying worlds. From the cracks, titanic beings of incomprehensible form emerge, their bodies a chaotic fusion of organic tendrils and…",
+    "longDescription": "The sky fractures into a thousand mirrored shards, each reflecting twisted versions of dying worlds. From the cracks, titanic beings of incomprehensible form emerge, their bodies a chaotic fusion of organic tendrils and pulsating machinery. Entire planets are torn from their orbits, dragged into the yawning void between realities. Space itself writhes, distorting as time melts, with fragments of past and future colliding in a cacophony of broken moments. Screams echo from nowhere, as civilizations are erased in the blink of an eye. <lora:atomeaser_v1:1.25><lora:metal_hurlant_v1:0.25>,<lora:fantastic_planet_v1:0.2>",
+    "tech": {
+      "steps": 20,
+      "sampler": "Euler",
+      "cfgScale": 1,
+      "distilledCfgScale": 3.5,
+      "seed": 2951411677,
+      "sizeGenerated": "1920x1280",
+      "modelHash": "52cfce60d7",
+      "model": "flux1-dev-Q8_0",
+      "version": "f2.0.1v1.10.1-previous-537-g95b54a27",
+      "loras": [
+        {
+          "name": "atomeaser_v1",
+          "strength": 1.25
+        },
+        {
+          "name": "metal_hurlant_v1",
+          "strength": 0.25
+        },
+        {
+          "name": "fantastic_planet_v1",
+          "strength": 0.2
+        }
+      ]
+    }
+  },
+  {
+    "fileBase": "00259-876311104_modified",
+    "id": "00259-876311104-modified",
+    "slug": "00259-876311104-modified",
+    "title": "00259 876311104 modified",
+    "thumb": "/art/thumbs/00259-876311104_modified_thumb.jpg",
+    "full": "/art/full/00259-876311104_modified_full.jpg",
+    "originalWidth": 1920,
+    "originalHeight": 1280,
+    "alt": "The sky fractures into a thousand mirrored shards, each reflecting twisted versions of dying worlds. From the cracks, titanic beings of inc…",
+    "shortDescription": "The sky fractures into a thousand mirrored shards, each reflecting twisted versions of dying worlds. From the cracks, titanic beings of incomprehensible form emerge, their bodies a chaotic fusion of organic tendrils and…",
+    "longDescription": "The sky fractures into a thousand mirrored shards, each reflecting twisted versions of dying worlds. From the cracks, titanic beings of incomprehensible form emerge, their bodies a chaotic fusion of organic tendrils and pulsating machinery. Entire planets are torn from their orbits, dragged into the yawning void between realities. Space itself writhes, distorting as time melts, with fragments of past and future colliding in a cacophony of broken moments. Screams echo from nowhere, as civilizations are erased in the blink of an eye. <lora:atomeaser_v1:1.25><lora:fantastic_planet_v1:0.2>",
+    "tech": {
+      "steps": 20,
+      "sampler": "Euler",
+      "cfgScale": 1,
+      "distilledCfgScale": 3.5,
+      "seed": 876311104,
+      "sizeGenerated": "1920x1280",
+      "modelHash": "52cfce60d7",
+      "model": "flux1-dev-Q8_0",
+      "version": "f2.0.1v1.10.1-previous-537-g95b54a27",
+      "loras": [
+        {
+          "name": "atomeaser_v1",
+          "strength": 1.25
+        },
+        {
+          "name": "fantastic_planet_v1",
+          "strength": 0.2
+        }
+      ]
+    }
+  },
+  {
+    "fileBase": "00269-876311114_modified",
+    "id": "00269-876311114-modified",
+    "slug": "00269-876311114-modified",
+    "title": "00269 876311114 modified",
+    "thumb": "/art/thumbs/00269-876311114_modified_thumb.jpg",
+    "full": "/art/full/00269-876311114_modified_full.jpg",
+    "originalWidth": 1920,
+    "originalHeight": 1280,
+    "alt": "The sky fractures into a thousand mirrored shards, each reflecting twisted versions of dying worlds. From the cracks, titanic beings of inc…",
+    "shortDescription": "The sky fractures into a thousand mirrored shards, each reflecting twisted versions of dying worlds. From the cracks, titanic beings of incomprehensible form emerge, their bodies a chaotic fusion of organic tendrils and…",
+    "longDescription": "The sky fractures into a thousand mirrored shards, each reflecting twisted versions of dying worlds. From the cracks, titanic beings of incomprehensible form emerge, their bodies a chaotic fusion of organic tendrils and pulsating machinery. Entire planets are torn from their orbits, dragged into the yawning void between realities. Space itself writhes, distorting as time melts, with fragments of past and future colliding in a cacophony of broken moments. Screams echo from nowhere, as civilizations are erased in the blink of an eye. <lora:atomeaser_v1:1><lora:fantastic_planet_v1:0.2>",
+    "tech": {
+      "steps": 20,
+      "sampler": "Euler",
+      "cfgScale": 1,
+      "distilledCfgScale": 3.5,
+      "seed": 876311114,
+      "sizeGenerated": "1920x1280",
+      "modelHash": "52cfce60d7",
+      "model": "flux1-dev-Q8_0",
+      "version": "f2.0.1v1.10.1-previous-537-g95b54a27",
+      "loras": [
+        {
+          "name": "atomeaser_v1",
+          "strength": 1
+        },
+        {
+          "name": "fantastic_planet_v1",
+          "strength": 0.2
+        }
+      ]
+    }
+  },
+  {
+    "fileBase": "00274-876311119_modified",
+    "id": "00274-876311119-modified",
+    "slug": "00274-876311119-modified",
+    "title": "00274 876311119 modified",
+    "thumb": "/art/thumbs/00274-876311119_modified_thumb.jpg",
+    "full": "/art/full/00274-876311119_modified_full.jpg",
+    "originalWidth": 1536,
+    "originalHeight": 1920,
+    "alt": "A monstrous hand made of stars reaches out from a swirling galactic storm, each finger stretching across light-years of space. It closes it…",
+    "shortDescription": "A monstrous hand made of stars reaches out from a swirling galactic storm, each finger stretching across light-years of space. It closes its fist around entire constellations, crushing them to dust. Space-time shatters…",
+    "longDescription": "A monstrous hand made of stars reaches out from a swirling galactic storm, each finger stretching across light-years of space. It closes its fist around entire constellations, crushing them to dust. Space-time shatters like fragile glass in its grip, and the universe ripples with shockwaves that distort everything they touch. Entire dimensions collapse inward, sucked into the singularity forming at the center of its palm. As it tightens its grasp, the very laws of physics unravel, leaving behind only a vast, yawning chasm where reality once stood. <lora:atomeaser_v1:1><lora:fantastic_planet_v1:0.2>",
+    "tech": {
+      "steps": 20,
+      "sampler": "Euler",
+      "cfgScale": 1,
+      "distilledCfgScale": 3.5,
+      "seed": 876311119,
+      "sizeGenerated": "1920x1280",
+      "modelHash": "52cfce60d7",
+      "model": "flux1-dev-Q8_0",
+      "version": "f2.0.1v1.10.1-previous-537-g95b54a27",
+      "loras": [
+        {
+          "name": "atomeaser_v1",
+          "strength": 1
+        },
+        {
+          "name": "fantastic_planet_v1",
+          "strength": 0.2
+        }
+      ]
+    }
+  },
+  {
+    "fileBase": "00311-876311156_modified",
+    "id": "00311-876311156-modified",
+    "slug": "00311-876311156-modified",
+    "title": "00311 876311156 modified",
+    "thumb": "/art/thumbs/00311-876311156_modified_thumb.jpg",
+    "full": "/art/full/00311-876311156_modified_full.jpg",
+    "originalWidth": 1920,
+    "originalHeight": 1280,
+    "alt": "A colossal, cosmic entity devours the universe, its body formed from swirling galaxies and nebulae. Its massive hands tear entire star syst…",
+    "shortDescription": "A colossal, cosmic entity devours the universe, its body formed from swirling galaxies and nebulae. Its massive hands tear entire star systems from the fabric of space, pulling them into a gaping maw where they vanish i…",
+    "longDescription": "A colossal, cosmic entity devours the universe, its body formed from swirling galaxies and nebulae. Its massive hands tear entire star systems from the fabric of space, pulling them into a gaping maw where they vanish into a vortex of light and darkness. Around its form, planets and asteroids spiral into oblivion, caught in its overwhelming gravitational pull. Black holes flicker near its edges, and shattered remnants of ancient civilizations drift into the void. The last flicker of starlight fades as time and space collapse, consumed by the god's insatiable hunger. <lora:atomeaser_v1:1.25><lora:fantastic_planet_v1:0.2>",
+    "tech": {
+      "steps": 20,
+      "sampler": "Euler",
+      "cfgScale": 1,
+      "distilledCfgScale": 3.5,
+      "seed": 876311156,
+      "sizeGenerated": "1920x1280",
+      "modelHash": "52cfce60d7",
+      "model": "flux1-dev-Q8_0",
+      "version": "f2.0.1v1.10.1-previous-537-g95b54a27",
+      "loras": [
+        {
+          "name": "atomeaser_v1",
+          "strength": 1.25
+        },
+        {
+          "name": "fantastic_planet_v1",
+          "strength": 0.2
+        }
+      ]
+    }
+  },
+  {
+    "fileBase": "00338-876311183_modified",
+    "id": "00338-876311183-modified",
+    "slug": "00338-876311183-modified",
+    "title": "00338 876311183 modified",
+    "thumb": "/art/thumbs/00338-876311183_modified_thumb.jpg",
+    "full": "/art/full/00338-876311183_modified_full.jpg",
+    "originalWidth": 1920,
+    "originalHeight": 1280,
+    "alt": "The sky fractures into a thousand mirrored shards, each reflecting twisted versions of dying worlds. From the cracks, titanic beings of inc…",
+    "shortDescription": "The sky fractures into a thousand mirrored shards, each reflecting twisted versions of dying worlds. From the cracks, titanic beings of incomprehensible form emerge, their bodies a chaotic fusion of organic tendrils and…",
+    "longDescription": "The sky fractures into a thousand mirrored shards, each reflecting twisted versions of dying worlds. From the cracks, titanic beings of incomprehensible form emerge, their bodies a chaotic fusion of organic tendrils and pulsating machinery. Entire planets are torn from their orbits, dragged into the yawning void between realities. Space itself writhes, distorting as time melts, with fragments of past and future colliding in a cacophony of broken moments. Screams echo from nowhere, as civilizations are erased in the blink of an eye. <lora:atomeaser_v1:1.25>",
+    "tech": {
+      "steps": 20,
+      "sampler": "Euler",
+      "cfgScale": 1,
+      "distilledCfgScale": 3.5,
+      "seed": 876311183,
+      "sizeGenerated": "1920x1280",
+      "modelHash": "52cfce60d7",
+      "model": "flux1-dev-Q8_0",
+      "version": "f2.0.1v1.10.1-previous-537-g95b54a27",
+      "loras": [
+        {
+          "name": "atomeaser_v1",
+          "strength": 1.25
+        }
+      ]
+    }
+  }
+]

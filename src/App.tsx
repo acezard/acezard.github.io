@@ -5,6 +5,7 @@ export const App = () =>
     <div className="min-h-screen flex items-center justify-center px-4">
       <div className="max-w-xl w-full rounded-2xl border border-slate-200 bg-white/80 shadow-sm backdrop-blur dark:border-slate-800 dark:bg-slate-900/80">
         <div className="px-6 pb-6 pt-4 sm:px-8 sm:pb-8 sm:pt-6">
+
           <header className="space-y-3">
             <h1 className="text-3xl font-semibold tracking-tight sm:text-4xl">
               {profileData.name}

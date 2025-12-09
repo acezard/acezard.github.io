@@ -1,0 +1,27 @@
+/* Container becomes a multi-column layout */
+.art-grid {
+  column-width: 260px;      /* target column width */
+  column-gap: 1.5rem;
+  padding: 1.5rem 0;
+}
+
+/* Each card is a block that flows down the columns */
+.art-card {
+  break-inside: avoid;
+  margin-bottom: 1.5rem;
+  border-radius: 0.75rem;
+  overflow: hidden;
+  background: #030712;      /* whatever bg you use */
+}
+
+/* Image keeps its natural ratio */
+.art-card__image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* Text etc. */
+.art-card__body {
+  padding: 0.75rem 0.9rem;
+}
